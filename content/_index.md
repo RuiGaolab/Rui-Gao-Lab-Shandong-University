@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Rui Gao\'s Lab
+        Rui Gao's Lab
         @ Shandong University
       image:
         filename: welcome.jpg
