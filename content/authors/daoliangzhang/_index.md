@@ -1,17 +1,3 @@
-<!--
- * -------------------------------------------------
- * @FilePath        : /Rui-Gao-Lab-Shandong-University/content/authors/daoliangzhang/_index.md
- * @Author          : Qi Zou
- * @Email           : qizou@mail.sdu.edu.cn
- * @Date            : 2023-09-27 13:03:13
- * -------------------------------------------------
- * Change Activity :
- * @  LastEditTime  : 2023-09-27 13:18:02
- * @  LastEditors   : Qi Zou & qizou@mail.sdu.edu.cn
- * -------------------------------------------------
- * @Description     : 
- * -------------------------------------------------
--->
 ---
 # Display name
 title: Zhang Daoliang 张道良
@@ -28,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Phd student
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -42,8 +28,6 @@ interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Bioinformatics
-
-
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -62,7 +46,9 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
-  - Visitors
+  - PhD student
+
+Daoliang Zhang is a PhD student at the School of control science and engineering, Shandong University. His research interests include 
+atrificial intelligence and bioinformatics.
 ---
 

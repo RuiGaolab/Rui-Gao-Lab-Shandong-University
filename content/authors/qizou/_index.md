@@ -8,7 +8,7 @@ last_name: Zou
 
 # Username (this should match the folder name)
 authors:
-  - 邹麒
+  - qizou
 
 # Is this the primary user of the site?
 superuser: false
@@ -60,8 +60,8 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Phd
+  - PhD student
 ---
 
-Qi Zou is a phd at the School of control science and engineering, Shandong University. His research interests include 
+Qi Zou is a PhD student at the School of control science and engineering, Shandong University. His research interests include 
 atrificial intelligence and bioinformatics.

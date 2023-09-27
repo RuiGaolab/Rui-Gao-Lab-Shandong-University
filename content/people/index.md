@@ -14,7 +14,7 @@ sections:
           - Principal Investigators
           - Professor
           - Grad Students
-          - Phd student
+          - PhD student
           - MS student
       sort_by: Params.last_name
       sort_ascending: true
