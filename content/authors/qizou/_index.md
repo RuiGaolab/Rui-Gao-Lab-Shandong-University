@@ -63,5 +63,5 @@ user_groups:
   - Phd
 ---
 
-吳恩達 is a phd at the School of control science and engineering, Shandong University. His research interests include 
+Qi Zou is a phd at the School of control science and engineering, Shandong University. His research interests include 
 atrificial intelligence and bioinformatics.
