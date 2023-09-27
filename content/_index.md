@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Rui Gao Lab** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Rui Gao's Lab** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
   
   - block: collection
     content:
