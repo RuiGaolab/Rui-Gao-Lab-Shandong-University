@@ -48,7 +48,7 @@ email: ''
 user_groups:
   - PhD student
 
-Daoliang Zhang is a PhD student at the School of control science and engineering, Shandong University. His research interests include 
-atrificial intelligence and bioinformatics.
 ---
 
+Daoliang Zhang is a PhD student at the School of control science and engineering, Shandong University. His research interests include 
+atrificial intelligence and bioinformatics.
