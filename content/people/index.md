@@ -13,7 +13,7 @@ sections:
       user_groups:
           - Principal Investigators
           - Professor
-          - Grad Students
+          - Grad Student
           - PhD student
           - MS student
       sort_by: Params.last_name

@@ -1,17 +1,3 @@
-<!--
- * -------------------------------------------------
- * @FilePath        : /Rui-Gao-Lab-Shandong-University/content/authors/dezhenzhang/_index.md
- * @Author          : Qi Zou
- * @Email           : qizou@mail.sdu.edu.cn
- * @Date            : 2023-09-28 15:01:26
- * -------------------------------------------------
- * Change Activity :
- * @  LastEditTime  : 2023-09-28 15:09:37
- * @  LastEditors   : Qi Zou & qizou@mail.sdu.edu.cn
- * -------------------------------------------------
- * @Description     : 
- * -------------------------------------------------
--->
 ---
 # Display name
 title:  De-zhen Zhang 张德祯
