@@ -22,10 +22,11 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include atrificial intelligence and bioinformatics.
+bio: My research interests include atrificial intelligence, deep learning, and bioinformatics.
 
 interests:
   - Artificial Intelligence
+  - Deep Learning
   - Bioinformatics
 
 education:
