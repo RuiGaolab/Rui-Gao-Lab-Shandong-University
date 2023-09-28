@@ -59,4 +59,4 @@ user_groups:
   - PhD student
 ---
 
-De-Zhen Zhang is a PhD student at the School of control science and engineering, Shandong University. His research interests include Control theory, Bioinformatics, Machine learning.
+De-Zhen Zhang is a PhD student at the School of control science and engineering, Shandong University. He is interested in bridging the gap between computational models and biological data. His research focuses primarily on mathematical modeling and control of poorly constrained biological networks,  multiscale models coupling intracellular and environmental dynamics, and investigating systems biology mechanisms of complex traits.
